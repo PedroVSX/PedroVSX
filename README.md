@@ -40,7 +40,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/PedroVSX/PedroVSX/output/snake.svg" alt="Snake animation" />
-
-###

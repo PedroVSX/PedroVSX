@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pedro Vieira and I'm a Computer Science Student, from Brazil 🇧🇷.</p>
+<p align="left">My name is Pedro Vieira and I'm a Computer Science Student, from Brazil 🇧🇷</p>
 
 ###
 

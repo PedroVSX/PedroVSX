@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">💻 Creating bugs since 2023<br>📚 I'm currently learning HTML, CSS & Bootstrap<br>🎯 Goals: live in a cold place and work as Web Developer<br>🎲 Fun fact: love Dachshund dogs</p>
+<p align="left">💻 Creating bugs since 2023<br>📚 I'm currently learning HTML, CSS & Ionic Angular<br>🎯 Goals: live in a cold place and work as Web Developer<br>🎲 Fun fact: love Dachshund dogs</p>
 
 ###
 

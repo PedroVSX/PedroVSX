@@ -1,42 +1,26 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
 
-###
+![](https://komarev.com/ghpvc/?username=PedroVSX&color=BD0000&style=for-the-badge&abbreviated=true&base=11)
 
-<p align="left">My name is Pedro Vieira and I'm a Computer Science Student, from Brazil 🇧🇷</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/pedrovieira2809/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="23" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:pedrovsx2004@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="23" alt="gmail logo"  />
-  </a>
 </div>
 
-###
+# 💫 About Me:
+💻 Creating bugs since 2023<br>📚 I'm currently learning Spring Boot<br>🎯 Goals: live in a cold place and work as Software Developer<br>🎲 Fun fact: love Dachshund dogs
 
-<h2 align="left">About me</h2>
 
-###
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedrovieira2809/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedrovsx2004@gmail.com) 
 
-<p align="left">💻 Creating bugs since 2023<br>📚 I'm currently learning HTML, CSS & Ionic Angular<br>🎯 Goals: live in a cold place and work as Web Developer<br>🎲 Fun fact: love Dachshund dogs</p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PedroVSX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PedroVSX&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVSX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
+---
+<div align="center">
 
-<h2 align="left">I code with</h2>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-
-###

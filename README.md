@@ -1,8 +1,4 @@
-<div align="center">
 
-![](https://komarev.com/ghpvc/?username=PedroVSX&color=BD0000&style=for-the-badge&abbreviated=true&base=11)
-
-</div>
 
 # 💫 About Me:
 💻 Creating bugs since 2023<br>📚 I'm currently learning Spring Boot<br>🎯 Goals: live in a cold place and work as Software Developer<br>🎲 Fun fact: love Dachshund dogs
